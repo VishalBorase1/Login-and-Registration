@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://user-images.githubusercontent.com/110810311/234611917-d2e3586e-cb75-42df-b7f6-7b86a6251f45.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Login-and-Registration Page</h3>
 
 <div align="center">
 
@@ -28,8 +28,6 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -43,7 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+Download Software
 ```
 
 ### Installing
