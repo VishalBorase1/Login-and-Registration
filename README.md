@@ -1,5 +1,4 @@
 # Login-and-Registration
-# project-documentation
 
 <p align="center">
   <a href="" rel="noopener">
