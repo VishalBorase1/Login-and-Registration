@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://user-images.githubusercontent.com/110810311/234611917-d2e3586e-cb75-42df-b7f6-7b86a6251f45.png" alt="Project logo"></a>
+ <img width=500px height=300px src="https://user-images.githubusercontent.com/110810311/234611917-d2e3586e-cb75-42df-b7f6-7b86a6251f45.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Login-and-Registration Page</h3>
@@ -85,15 +85,13 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Java](https://www.java.com/) - Language
+- [MySQL](https://www.mysql.com/) - Database
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@VishalBorase1](https://github.com/VishalBorase1) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/VishalBorase1/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Hat tip to anyone whose code was used
