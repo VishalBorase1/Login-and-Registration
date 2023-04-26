@@ -32,13 +32,22 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+This is my portfolio Internship project which I demonstrates with my abilities in 
+building a completely Full Stack project using Full Stack Technologies Like Using
+JDBC, MYSQL, JSP, Servlets , Tomcat Server. Using Eclipse Java IDE Where I Created
+a Dynamic Web Project and Add Tomacat Server and Mysql Connector On It and 
+Used JDBC Code Connect MySQL Database Which I Created Using SQLyog App .
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+1. Download Apache Tomcat 9.0
+ Go to Internet Search Appache Tomcat 9 on Google Using Apache 
+Website Download Apache Tomacat 9
+ Go to Eclipse When Create Web Project Select Apache Tomcat 9 
+and Select Folder we have downloaded browse it and add then click 
+on Finish.
 
 ```
 Download Software
@@ -82,7 +91,7 @@ Give an example
 Add notes about how to use the system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Java](https://www.java.com/) - Language
